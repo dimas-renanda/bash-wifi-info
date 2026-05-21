@@ -6,3 +6,4 @@ Show WiFi SSID, signal, and IP from bash.
 ```bash
 chmod +x wifi.sh && ./wifi.sh
 ```
+
