@@ -7,3 +7,5 @@ Show WiFi SSID, signal, and IP from bash.
 chmod +x wifi.sh && ./wifi.sh
 ```
 
+
+# pair extraordinaire test
